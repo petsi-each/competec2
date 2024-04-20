@@ -16,7 +16,8 @@
 			"settings": {
 				"redhat.telemetry.enabled": false,
 				"workbench.iconTheme": "material-icon-theme",
-				"java.server.launchMode": "Standard"
+				"java.server.launchMode": "Standard",
+				"problems.visibility": false
 			}
 		}
 	}
