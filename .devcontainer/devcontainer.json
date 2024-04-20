@@ -1,14 +1,23 @@
 {
 	"name": "Java",
-	"image": "mcr.microsoft.com/devcontainers/java:1-21-bullseye",
+	"image": "mcr.microsoft.com/devcontainers/java",
 	"features": {
-		"ghcr.io/devcontainers/features/java:1": {}
+		"ghcr.io/devcontainers/features/java:1": {
+			"installGradle": true
+		}
 	},
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"vscjava.vscode-java-pack"
-			]
+				"vscjava.vscode-java-pack",
+				"vscjava.vscode-gradle",
+				"PKief.material-icon-theme"
+			],
+			"settings": {
+				"redhat.telemetry.enabled": false,
+				"workbench.iconTheme": "material-icon-theme",
+				"java.server.launchMode": "Standard"
+			}
 		}
 	}
 }
