@@ -4,7 +4,7 @@ package competec.aula0_tipos_primitivos_gabarito;/*
 3. Some o valor da laranja com a uva;
 */
 
-public class Exercicio2Resolvido {
+public class Exercicio2Gabarito {
     public static void main(String[] args) {
         // lembre-se que o nome da variável é importante para a leitura e entendimento do código
         // nomeie as variáveis de acordo com o problema e com o que elas armazenam

@@ -6,7 +6,7 @@ package competec.aula0_tipos_primitivos_gabarito;
 3. Crie uma variável informando se você tomou café da manhã;
 */
 
-public class Exercicio1Resolvido {
+public class Exercicio1Gabarito {
     public static void main(String[] args) {
         // valores char devem estar entra aspas simples ''
         char primeiraLetra = 'M';
