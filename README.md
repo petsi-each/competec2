@@ -1,5 +1,7 @@
 # 📓 Aulas
 
+[🐙 Instruções de utilização do Github Codespaces](https://docs.google.com/document/d/12_kuvNJBjM5sk9Eqxwa9czllnYWo1sUDdBc1BKO53TM/edit?usp=sharing)
+
 ## Aula 0
 
 Material : [Tipos Primitivos](https://drive.google.com/file/d/1rmVEHZoZNuqGh01NITBAcDrW02cms1Pu/view?usp=drive_link)
