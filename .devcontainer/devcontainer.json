@@ -18,7 +18,8 @@
 				"workbench.iconTheme": "material-icon-theme",
 				"java.server.launchMode": "Standard",
 				"problems.visibility": false,
-				"git.enableSmartCommit": true
+				"git.enableSmartCommit": true,
+				"git.autofetch": "all"
 			}
 		}
 	}
