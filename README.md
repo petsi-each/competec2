@@ -1,6 +1,8 @@
-# 📓 Aulas
+# 🧑‍💻 Codespaces
 
 [🐙 Instruções de utilização do Github Codespaces](https://docs.google.com/document/d/12_kuvNJBjM5sk9Eqxwa9czllnYWo1sUDdBc1BKO53TM/edit?usp=sharing)
+
+# 📓 Aulas
 
 ## Aula 0
 
