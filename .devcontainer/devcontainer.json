@@ -17,9 +17,8 @@
 				"redhat.telemetry.enabled": false,
 				"workbench.iconTheme": "material-icon-theme",
 				"java.server.launchMode": "Standard",
-				"problems.visibility": false,
-				"git.enableSmartCommit": true,
-				"git.autofetch": "all"
+				"git.autofetch": "all",
+				"git.enableSmartCommit": true
 			}
 		}
 	}
