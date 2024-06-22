@@ -27,3 +27,7 @@ Material : [Loops](https://docs.google.com/presentation/d/11TXkt-7azUtMdAtYxCeq9
 ## Aula 3
 
 Material : [Arranjos](https://docs.google.com/presentation/d/1j_vF-z8JnSJZdhaI6z8zMlQ20TCQA2gguyivrCNNwIM/edit?usp=sharing)
+
+## Aula 4
+
+Material : [Matriz](https://docs.google.com/presentation/d/1eUFNHyuRF7EyBfI8ibxsy9Gp5VubKZgdkVXL1NEwWTs/edit?usp=sharing)
