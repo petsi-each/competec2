@@ -31,3 +31,7 @@ Material : [Arranjos](https://docs.google.com/presentation/d/1j_vF-z8JnSJZdhaI6z
 ## Aula 4
 
 Material : [Matriz](https://docs.google.com/presentation/d/1eUFNHyuRF7EyBfI8ibxsy9Gp5VubKZgdkVXL1NEwWTs/edit?usp=sharing)
+
+## Aula 5
+
+Material: [Strings](https://docs.google.com/presentation/d/1rl3iYwwIf_RD_H-r77WgFHAcEDQkULZMxU1D3Xrw8YI/edit?usp=sharing)
