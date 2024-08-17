@@ -9,7 +9,7 @@ public class RevisaoArranjo {
         int maior, menor;
 
         maior = menor = numeros[0] = scanner.nextInt(); //lê o primeiro valor do vetor e o inicializa como maior e menor até o momento
-
+        
         //Insira aqui o código para ler os números do vetor e encontrar o maior e menor valores
 
         System.out.println("Maior: " + maior);

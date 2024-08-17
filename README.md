@@ -35,3 +35,7 @@ Material : [Matriz](https://docs.google.com/presentation/d/1eUFNHyuRF7EyBfI8ibxs
 ## Aula 5
 
 Material: [Strings](https://docs.google.com/presentation/d/1rl3iYwwIf_RD_H-r77WgFHAcEDQkULZMxU1D3Xrw8YI/edit?usp=sharing)
+
+## Aula 6
+
+Material: [Métodos](https://docs.google.com/presentation/d/12v3sMUxubtE0_q0yKzQ9IiXeqX3nY76ca1Ajwz2I96U/edit?usp=sharing)
