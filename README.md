@@ -38,7 +38,7 @@ Material: [Strings](https://docs.google.com/presentation/d/1rl3iYwwIf_RD_H-r77Wg
 
 ## Aula 6
 
-Material: [Métodos](https://docs.google.com/presentation/d/12v3sMUxubtE0_q0yKzQ9IiXeqX3nY76ca1Ajwz2I96U/edit?usp=sharing)
+Material: [Métodos](https://docs.google.com/presentation/d/1ZBdWw_8fNFZvmJR96nzt2w4r9eIDATVo/edit?usp=sharing&ouid=116261934892906259883&rtpof=true&sd=true)
 
 ## Aula 7
 
