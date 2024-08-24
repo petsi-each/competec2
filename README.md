@@ -39,3 +39,8 @@ Material: [Strings](https://docs.google.com/presentation/d/1rl3iYwwIf_RD_H-r77Wg
 ## Aula 6
 
 Material: [Métodos](https://docs.google.com/presentation/d/12v3sMUxubtE0_q0yKzQ9IiXeqX3nY76ca1Ajwz2I96U/edit?usp=sharing)
+
+## Aula 7
+
+Material: [Revisão-Drive](https://drive.google.com/drive/folders/1h1D1f4MfPOWXnGUB20cIPhQABroVsGJn?usp=sharing)
+
